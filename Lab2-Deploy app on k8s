@@ -1,6 +1,7 @@
 kubectl expose deployment hello-node --type=NodePort --port=8080
 kubectl get pods
 kubectl get svc
+=====================================================================================================================
 
 Deploy app using .yml file
 
